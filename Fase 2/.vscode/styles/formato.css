@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#principal{
+    width: 960px;
+    height: 800px;
+    margin: 50px auto;
+    background: #AEB6BF ;
+}
+header{
+    width: 960px;
+    height: 120px;
+    background: rgb(89, 141, 150);
+    
+    
+    
+}
+nav{
+    width: 960px;
+    height: 75px;
+    background: rgb(189, 210, 214);
+    
+    
+    
+}
+
+#left{
+    text-align: left;
+    margin-left: 20px;
+    
+}
+
+#header{
+    margin: auto;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+.nav li a {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display:block;
+
+}
+
+.nav li a:hover{
+    background-color: cadetblue;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.nav li:hover > ul {
+    display:block
+}
+
+section{
+    width: 960px;
+    height: 170px;
+    background: rgb(212, 212, 212);
+      
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h3{
+    margin-left: 15px;
+}
+
+article{
+    width: 350px;
+    margin: 10px;
+    height: 350px;
+    background: rgb(212, 212, 212);
+    float: left;
+      
+}
+
+#info{
+    text-align: center;
+}
+
+h2{
+    margin-left: 15px;
+    font-size: small;
+}
+
+#preve{
+    width: 370px;
+    margin-left: 210px;
+    float: left;
+    height: 355px;
+    background: rgb(212, 212, 212);
+
+}
+#titu{
+    text-align: center;
+}
+
+h4{
+    margin-left: 15px;
+    font-size: small;
+}
+#virus{
+    width: 200px;
+    height: 150px;
+    margin-left: 370px;
+    float: left;
+    margin-top: -250px;
+    
+}
+
+footer{
+    width: 370px;
+    margin-left: 210px;
+    float: left;
+    height: 355px;
+}
+
+p{
+    width: 370px;
+    margin-left: 500px;
+    float: left;
+    
+}
+
+

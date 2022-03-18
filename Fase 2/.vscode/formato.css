@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#principal{
+    width: 960px;
+    height: 800px;
+    margin: 50px auto;
+    background: #AEB6BF ;
+}
+header{
+    width: 960px;
+    height: 120px;
+    background: rgb(89, 141, 150);
+    
+    
+}
+nav{
+    width: 960px;
+    height: 75px;
+    background: rgb(189, 210, 214);
+}
