@@ -4,11 +4,12 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open desing.html",
-            "file": "D:/UNAD/Quinto semestre/Diseño de sitios web/Fase 2/DSW-JHONMORA/.vscode"
+            "file": "D:/UNAD/Quinto semestre/Diseño de sitios web/Fase 1/Repositorio/DSW-JhonMora/Fase 3/.vscode/index.html"
         }
     ]
 }

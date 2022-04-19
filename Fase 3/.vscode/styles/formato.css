@@ -1,0 +1,379 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+html{
+    background: rgb(138, 136, 136);
+}
+#principal{
+    width: 960px;
+    height: 800px;
+    margin: 50px auto;
+    background: #AEB6BF ;
+}
+header{
+    width: 960px;
+    height: 120px;
+    background: rgb(89, 141, 150);
+    
+    
+    
+}
+nav{
+    width: 960px;
+    height: 75px;
+    background: rgb(189, 210, 214);
+    
+    
+    
+}
+
+#left{
+    text-align: left;
+    margin-left: 20px;
+    
+}
+
+#header{
+    margin: auto;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+.nav li a {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display:block;
+
+}
+
+.nav li a:hover{
+    background-color: cadetblue;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.nav li:hover > ul {
+    display:block
+}
+
+section{
+    width: 960px;
+    height: 170px;
+    background: rgb(212, 212, 212);
+      
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h3{
+    margin-left: 15px;
+}
+
+article{
+    width: 350px;
+    margin: 10px;
+    height: 350px;
+    background: rgb(212, 212, 212);
+    float: left;
+      
+}
+
+#info{
+    text-align: center;
+}
+
+h2{
+    margin-left: 15px;
+    font-size: small;
+}
+
+#preve{
+    width: 370px;
+    margin-left: 210px;
+    float: left;
+    height: 355px;
+    background: rgb(212, 212, 212);
+
+}
+#titu{
+    text-align: center;
+}
+
+h4{
+    margin-left: 15px;
+    font-size: small;
+}
+#virus{
+    width: 200px;
+    height: 150px;
+    margin-left: 370px;
+    float: left;
+    margin-top: -250px;
+    
+}
+
+footer{
+    width: 370px;
+    margin-left: 210px;
+    float: left;
+    height: 355px;
+}
+
+p{
+    width: 370px;
+    margin-left: 500px;
+    float: left;
+    
+}
+
+#Tema1{
+    width: 960px;
+    height: 800px;
+    margin: 50px auto;
+    background: #AEB6BF ;
+}
+
+
+#titulo1{
+    width: 960px;
+    height: 100px;
+    margin: auto;
+    margin-top: -850px;
+    text-align: center;
+
+}
+#arti1{
+    width: 670px;
+    height: 630px;
+    margin: 52px;
+    margin-top:70px ;
+
+}
+
+#Inicio1{
+    
+    margin: 220px;
+    margin-top:-15px ;
+    
+}
+
+#infoIni{
+    text-align: center;  
+    font-style: italic; 
+    font-size: 30px;
+    margin: -20px;
+}
+
+#Ini{
+    
+    font-size: 15px;
+    margin: 30px;
+    
+    
+}
+
+#Wuhan{
+    width: 100px;
+    height: 70px;
+    margin-left: 450px;
+    float: left;
+    margin-top: -40px;
+    
+}
+#pandemia{
+    width: 130px;
+    height: 630px;
+    margin-left: 680px;
+    float: left;
+    margin-top: -628px;
+
+}
+#imagen1{
+    width: 120px;
+    height: 550px;
+    margin: -20px;
+    float: left;
+    margin-top: -682px;
+    
+    
+}   
+#covid19{
+    margin: auto;
+    width: 130px;
+    height: 630px;
+    
+    
+} 
+#arti2{
+    width: 660px;
+    height: 620px;
+    margin: -80px;
+    margin-top: 70px;
+}
+#info2{
+    font-size: 12px;
+    margin: 15px;
+}
+#vacuna{
+    height: 100px;
+    margin: 150px;
+    margin-top: 15px ;
+
+    
+}
+#virus0{
+    width: 250px;
+    height: 200px;
+    margin: 666px;
+    margin-top: -450px;
+
+}
+#viru0{
+    width: 250px;
+    height: 200px;
+    
+}
+#viru1{
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+   
+}
+
+#recu1{
+    height: 450px;
+    width: 450px;
+    margin: -70px ;
+    margin-top: 90px;
+}
+
+#recu2{
+    height: 495px;
+    width: 450px;
+    margin: 460px ;
+    margin-top: -285px;
+}
+
+#video1{
+    height: 400px;
+    width: 450px;
+    margin: -0px ;
+    margin-top: 22px;
+}
+
+#video2{
+    height: 450px;
+    width: 450px;
+    margin: 0px ;
+    margin-top: 20px;
+}
+
+#textre{
+    font-size: medium;
+    font-style: oblique;
+}
+
+#recu3{
+    width: 800px;
+    height: 200px;
+    margin: 50px;
+}
+
+#podc{
+    font-size: 15px;
+    font-style: oblique;
+}
+
+#recu4{
+    width: 800px;
+    height: 200px;
+    margin: 50px;
+}
+
+#audio{
+    margin: 250px;
+    margin-top: -5px;
+    
+}
+#gif{
+    width: 250px;
+    height: 150px;
+    margin: 25px;
+}
+
+#gif1{
+    width: 250px;
+    height: 150px;
+    margin: 25px;
+}
+
+#cui{
+    font-size: 20px;
+    font-style:italic;
+    margin: 300px;
+    margin-top: -150px;
+    
+}
+#unad{
+    margin: 3px ;
+}
+#tituloa{
+    margin: 0px;
+    text-align: center;
+}
+
+#datosau{
+    width: 800px;
+    height: 600px;
+    margin: 50px;
+    margin-top: 17px;
+    font-size: 22px;
+    
+}
+#redes{
+    width: 800px;   
+    height: 150px;
+    margin: 50px;
+    margin-top: -200px;
+    background: white;
+}
+#infoau{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+#unad1{
+    width: 400px;
+    height: 90px;
+    margin-top: 25px;
+}
+#fb{
+    width: 60px;
+    height: 45px;
+    margin: 30px;
+    
+}
+#enlacefb{
+    margin-left: 500px;
+    margin-top: -15px;
+}

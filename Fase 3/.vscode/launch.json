@@ -7,8 +7,9 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open desing.html",
-            "file": "D:/UNAD/Quinto semestre/Diseño de sitios web/Fase 2/DSW-JHONMORA/.vscode"
+            "name": "Launch Chrome against localhost",
+            "url": "D:/UNAD/Quinto semestre/Diseño de sitios web/Fase 1/Repositorio/DSW-JhonMora/Fase 2/desing.html",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
